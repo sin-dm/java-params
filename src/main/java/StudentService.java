@@ -7,4 +7,8 @@ public class StudentService {
             return true;
         }
     }
+
+    public void checkStudent() {
+        System.out.println("Student");
+    }
 }
